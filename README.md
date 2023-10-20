@@ -1,5 +1,6 @@
 - Hi my name's Dillon!
-- doing my best to change careers from first responder to a web developer as quickkly as I can(check back for updates to this line)
+- In the process of switching careers. I've worked several years as a 911 dispatcher while learning and working towards becoming a software engineer.
+- Proficient in HTML, CSS, JS, React, Node.
 
 <!---
 Dillonpw/Dillonpw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
