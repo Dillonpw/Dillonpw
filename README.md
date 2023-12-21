@@ -1,6 +1,6 @@
 - Hi my name's Dillon!
-- In the process of switching careers.
-- I've worked several years as a 911 dispatcher while learning and working towards becoming a software engineer.
+- I've been working as a 911 Dispatcher for several years while studying and building projects along the way.
+- I have a magnetic attraction to puzzles of all kinds and programming really scratches that itch.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dillonpw)](https://github.com/anuraghazra/github-readme-stats)
 
