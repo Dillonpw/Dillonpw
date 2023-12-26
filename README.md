@@ -1,6 +1,6 @@
 - <h1>Hi my name's Dillon!</h1>
-- I've been working as a 911 Dispatcher for several years while studying and building projects along the way.
-- I have a magnetic attraction to puzzles of all kinds and programming really scratches that itch.
+I've been working as a 911 Dispatcher for several years while studying and building projects along the way.
+I build things on the web with the hope that someone will see and enjoy what I've made.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dillonpw)](https://github.com/anuraghazra/github-readme-stats)
 
