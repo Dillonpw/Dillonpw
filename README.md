@@ -1,6 +1,6 @@
 - <h1>Hi my name's Dillon!</h1>
-I've been working as a 911 Dispatcher for several years while studying and building projects along the way.
-I build things on the web with the hope that someone will see and enjoy what I've made.
+<p>I've been working as a 911 Dispatcher for several<br /> years while studying and building projects along the way.<br/>
+I build things on the web with the hope that someone<br /> will see and enjoy what I've made.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dillonpw)](https://github.com/anuraghazra/github-readme-stats)
 
