@@ -1,20 +1,6 @@
 <h1>Welcome to My GitHub Profile! 👋</h1>
 
-
-**A little bit about me**
-
-🚨 I'm currently working as a 911 Dispatcher, a role that has honed my skills in high-pressure decision-making and effective communication. This experience has significantly shaped my approach to problem-solving and collaboration.
-
-🌐 Alongside my dispatch duties, I'm deeply passionate about web development. Over the years, I've dedicated myself to studying and building various web projects, continuously expanding my knowledge and skills in the field.
-
-**My Projects**
-Impact Through Innovation: Each project I undertake is crafted with the hope that it will reach and resonate with others. I believe in the power of technology to bring about positive change, and I strive to reflect this belief in my work.
-
-**Diverse Portfolio:**
-My GitHub is a testament to my journey in web development. Here, you'll find a range of projects from simple websites to complex applications, each reflecting a piece of my learning and growth as a developer.
-
-**Let's Connect!**
-I'm always open to collaborating and sharing ideas with fellow developers. If you're interested in my work or just want to say hi, feel free to reach out!
+<h2>Languages, Frameworks and Tools</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,6 +22,22 @@ I'm always open to collaborating and sharing ideas with fellow developers. If yo
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+🚨 I'm currently working as a 911 Dispatcher, a role that has honed my skills in high-pressure decision-making and effective communication. This experience has significantly shaped my approach to problem-solving and collaboration.
+
+🌐 Alongside my dispatch duties, I'm deeply passionate about web development. Over the years, I've dedicated myself to studying and building various web projects, continuously expanding my knowledge and skills in the field.
+
+**My Projects**
+Impact Through Innovation: Each project I undertake is crafted with the hope that it will reach and resonate with others. I believe in the power of technology to bring about positive change, and I strive to reflect this belief in my work.
+
+**Diverse Portfolio:**
+My GitHub is a testament to my journey in web development. Here, you'll find a range of projects from simple websites to complex applications, each reflecting a piece of my learning and growth as a developer.
+
+**Let's Connect!**
+I'm always open to collaborating and sharing ideas with fellow developers. If you're interested in my work or just want to say hi, feel free to reach out!
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dillonpw)](https://github.com/anuraghazra/github-readme-stats)
