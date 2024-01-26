@@ -40,7 +40,6 @@ I'm always open to collaborating and sharing ideas with fellow developers. If yo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dillonpw)](https://github.com/anuraghazra/github-readme-stats)
 
-I've refactored several of my projects over time, but I also left more as they were to show my progression and learning as time has gone on, so when you look at the early repos... now you know.
 
 
 <!---
