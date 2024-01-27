@@ -27,7 +27,6 @@
 
 🌐 Alongside my dispatch duties, I'm deeply passionate about web development. Over the years, I've dedicated myself to studying and building various web projects, continuously expanding my knowledge and skills in the field.
 
-**My Projects**
 Each project I undertake is crafted with the hope that it will reach and resonate with others. I believe in the power of technology to bring about positive change, and I strive to reflect this belief in my work.
 
 **Let's Connect!**
