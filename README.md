@@ -28,10 +28,7 @@
 🌐 Alongside my dispatch duties, I'm deeply passionate about web development. Over the years, I've dedicated myself to studying and building various web projects, continuously expanding my knowledge and skills in the field.
 
 **My Projects**
-Impact Through Innovation: Each project I undertake is crafted with the hope that it will reach and resonate with others. I believe in the power of technology to bring about positive change, and I strive to reflect this belief in my work.
-
-**Diverse Portfolio:**
-My GitHub is a testament to my journey in web development. Here, you'll find a range of projects from simple websites to complex applications, each reflecting a piece of my learning and growth as a developer.
+Each project I undertake is crafted with the hope that it will reach and resonate with others. I believe in the power of technology to bring about positive change, and I strive to reflect this belief in my work.
 
 **Let's Connect!**
 I'm always open to collaborating and sharing ideas with fellow developers. If you're interested in my work or just want to say hi, feel free to reach out!
