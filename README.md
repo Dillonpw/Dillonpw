@@ -1,6 +1,6 @@
 <h1>Welcome to My GitHub Profile! 👋</h1>
  <h2>Seeking a Better Work/Life balance building projects in my spare time</h2>
-<h2>Languages, Frameworks and Tools</h2>
+<h2>Tech</h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
