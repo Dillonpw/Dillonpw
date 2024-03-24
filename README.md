@@ -23,7 +23,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I'm currently working as a 911 Dispatcher, a role that has honed my skills in high-pressure decision-making and effective communication. This experience has significantly shaped my approach to problem-solving and collaboration.
 
 I'm always open to collaborating and sharing ideas with fellow developers. If you're interested in my work or just want to say hi, feel free to reach out!
 
