@@ -1,6 +1,5 @@
 <h1>Welcome to My GitHub Profile! 👋</h1>
  <h2>Freelance Web Dev</h2>
- <p>Helping local business expand their reach</p>
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
